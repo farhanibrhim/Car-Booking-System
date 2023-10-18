@@ -8,5 +8,7 @@ Admin
 ic - 020423020205 pass - pqland123
 
 Customer
-you can create on your own
+-> you can create on your own
+
+https://caretapqland.000webhostapp.com/cbs/index.php
 
